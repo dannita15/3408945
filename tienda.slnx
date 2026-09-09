@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="api/Tienda.API.csproj">
+    <BuildDependency Project="TiendaOnlie.WASM/TiendaOnlie.WASM.csproj" />
+  </Project>
+  <Project Path="TiendaOnlie.WASM/TiendaOnlie.WASM.csproj" Id="c0604f37-b3e6-4985-8ee7-21611a6ab808" />
+</Solution>
